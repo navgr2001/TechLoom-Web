@@ -1,0 +1,52 @@
+.wkit-wb-Widget_rt5rv623 .pos-relative{
+    display:flex;}.wkit-wb-Widget_rt5rv623 .pos-relative .wkit-scrolltotop{
+    position:relative;
+    display:flex;
+    gap: 10px;
+    justify-content:center;}.wkit-wb-Widget_rt5rv623 .pos-fixed .wkit-scrolltotop{
+    position:fixed;
+    top:85%;
+    left:85%;}.wkit-wb-Widget_rt5rv623 .side-horizontal .wkit-scrolltotop{
+    visibility:hidden;
+    cursor: pointer;
+    display: flex;
+    gap:10px;
+    justify-content: center;
+    align-items: center;
+    z-index: 99;
+    transition:0.3s linear;
+    border-radius: 50%;
+    background-color: #000;
+    color: #fff;
+    border:1px solid rgb(12, 12, 12) ;
+    border-color: transparent;}.wkit-wb-Widget_rt5rv623 .side-vertical .wkit-scrolltotop{
+    visibility:hidden;
+    cursor: pointer;
+    display: flex;
+    gap:10px;
+    transform:rotate(-90deg);
+    justify-content: center;
+    align-items: center;
+    z-index: 99;
+    transition:0.3s linear;
+    border-radius: 50%;
+    background-color: #000;
+    color: #fff;
+    border:1px solid rgb(12, 12, 12) ;
+    border-color: transparent;}.wkit-wb-Widget_rt5rv623 .type-icon img.tp-title-icon{
+    display:none;}.wkit-wb-Widget_rt5rv623 .type-image span.tp-title-icon{
+    display:none;}.wkit-wb-Widget_rt5rv623 .type-none img.tp-title-icon{
+    display:none;}.wkit-wb-Widget_rt5rv623 .type-none span.tp-title-icon{
+    display:none;}.wkit-wb-Widget_rt5rv623 .wkit-scrolltotop-main.after-text .wkit-scrolltotop{
+     flex-direction:row-reverse;}.wkit-wb-Widget_rt5rv623 .tp-title-icon{
+     font-size:20px;
+     display:flex;
+     justify-content:center;
+     align-items:center;
+     color: #fff;}.wkit-wb-Widget_rt5rv623 .tp-title-icon svg{
+    width:20px;
+    height:auto;
+    fill: #fff;}.wkit-wb-Widget_rt5rv623 .tp-title-icon, .wkit-wb-Widget_rt5rv623 .tp-title-icon svg, .wkit-wb-Widget_rt5rv623 .tp-title-icon svg path{
+transition: all 0.3s linear;}.wkit-wb-Widget_rt5rv623 .wkit-scrolltotop [data-text=""]{
+    display:none;}.wkit-wb-Widget_rt5rv623 .wkit-scrolltotop-main .wkit-scrolltotop img {
+    width: 50px;}
